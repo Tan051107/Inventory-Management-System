@@ -1,0 +1,6 @@
+OrderID,CusID,ServiceNeeded,RepairDate,LastOrderedDate,LastOrderedTime,PaymentDate,PaymentTime,PaymentStatus
+0001,12345,Desktop Repair,13-08-2024,09-08-2024,21:53:47,09-08-2024,21:53:47,Payment Completed
+0002,12345,Laptop Service,21-08-2024,14-08-2024,18:25:51,-,-,Payment Incomplete
+0003,12345,Desktop Service,18-08-2024,14-08-2024,18:23:29,14-08-2024,18:23:29,Payment Completed
+0004,TP0004,Laptop Repair,20-08-2024,16-08-2024,20:44:00,16-08-2024,20:44:00,Payment Completed
+0005,TP0004,Desktop Repair,20-08-2024,16-08-2024,20:47:53,-,-,Payment Incomplete
