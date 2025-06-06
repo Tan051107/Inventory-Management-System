@@ -1,3 +1,18 @@
 # Inventory-Management-System
 
-### Run TAN_YIK_YANG_TP075377 to run the inventory management system
+### 1. Clone the Repository
+
+Open a terminal and run the following command:
+
+```bash
+git clone https://github.com/Tan051107/Mathematics-Quiz-Website.git
+```
+
+### 2. Navigate to the Project Directory
+
+```bash
+cd Mathematics-Quiz-Website
+```
+
+### 2. Run the program
+Run TAN_YIK_YANG_TP075377 to run the inventory management system
