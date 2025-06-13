@@ -1,0 +1,2 @@
+StockID,StockName,StockPrice(RM),QuantityInStock,LastUpdatedDate0001,JOYSTICK,89.0,45,16-08-2024
+0002,PENDRVIE,89.0,1,16-08-2024

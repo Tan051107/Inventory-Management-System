@@ -1,0 +1,3 @@
+Order ID, Staff ID,Supplier Name,Stock Purchased,Purchased Quantity,Ordered Date,Ordered Time,Approval
+0002,12345,CK & Tim IT Hypermarket,Joystick,13,14-08-2024,11:46:17,Unapproved
+0003,TP075377,Jack Hung Tech Solutions,JOYSTICK,80,16-08-2024,20:41:12,Unapproved

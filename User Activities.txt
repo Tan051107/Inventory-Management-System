@@ -1,0 +1,74 @@
+TP0756941,Super User,2024-08-15,10:28:22,Registration approved,TP063214
+TP0756941,Super User,2024-08-15,10:28:46,Registration approved,TP036845
+TP0756941,Super User,2024-08-15,10:30:54,Registration approved,TP063158
+TP0756941,Super User,2024-08-15,10:31:34,Update user,TP094152
+TP0756941,Super User,2024-08-15,10:33:55,Registration approved,TP063485
+TP0756941,Super User,2024-08-15,10:34:20,Update user,TP072941
+TP0756941,Super User,2024-08-15,10:38:32,Update user,TP063582
+TP0756941,Super User,2024-08-15,10:41:27,Update user,TP068145
+TP0756941,Super User,2024-08-15,10:45:38,Update user,TP063485
+TP0756941,Super User,2024-08-15,10:48:39,Update user,TP075320
+TP0756941,Super User,2024-08-15,10:54:10,Update user,TP004587
+TP0756941,Super User,2024-08-15,10:59:19,approved customer registration,050314869214
+TP0756941,Super User,2024-08-15,11:06:26,approved customer registration,0523698417
+TP0756941,Super User,2024-08-15,11:07:43,modify customer ID,TP0002
+TP0756941,Super User,2024-08-15,11:07:53,modify customer name,TP0002
+TP0756941,Super User,2024-08-15,11:08:01,modify customer phone number,TP0002
+TP0756941,Super User,2024-08-15,11:08:09,modify customer city,TP0002
+TP0756941,Super User,2024-08-15,11:08:36,modify customer city,TP0003
+TP0756941,Super User,2024-08-15,11:09:26,modify customer ID,TP0002
+TP0756941,Super User,2024-08-15,11:09:54,disable customer access,TP0003
+TP0756941,Super User,2024-08-15,11:11:38,disable user access,TP063214
+TP0756941,Super User,2024-08-15,11:12:23,disable user access,TP001254
+TP0756941,Super User,2024-08-15,11:12:46,check customer login ,-
+TP0756941,Super User,2024-08-15,11:15:37,check customer login ,-
+TP0756941,Super User,2024-08-15,11:16:28,check user login,-
+TP0756941,Super User,2024-08-15,11:19:54,check customer purchase order,TP0001
+TP0756941,Super User,2024-08-15,11:20:09,check customer purchase order,TP0002
+TP0756941,Super User,2024-08-15,11:20:20,check customer unpaid order,TP0001
+TP0756941,Super User,2024-08-15,11:21:30,Inventory purchaser order approval,TP061347
+TP0756941,Super User,2024-08-15,11:22:05,Inventory purchaser order approval,TP061754
+TP0756941,Super User,2024-08-15,11:22:31,Inventory purchaser order approval,TP061347
+TP0756941,Super User,2024-08-15,11:23:09,Check customer current login,TP0002
+TP0756941,Super User,2024-08-15,11:23:18,Check customer current login,TP0002
+TP0756941,Super User,2024-08-15,11:31:34,Check customer previous login,TP0003
+TP0756941,Super User,2024-08-15,11:33:37,Check customer previous login,TP0003
+TP0756941,Super User,2024-08-15,11:33:46,check customer account activation,TP0002
+TP0756941,Super User,2024-08-15,11:34:35,check customer account registration,050314869214
+TP0756941,Super User,2024-08-15,11:34:57,check customer account registration,020410569874
+TP0756941,Super User,2024-08-15,11:35:43,Check customer current login,TP0002
+TP0756941,Super User,2024-08-15,11:47:10,check user current login,TP004587
+TP0756941,Super User,2024-08-15,11:47:22,check user account activation,TP004587
+TP0756941,Super User,2024-08-15,11:47:34,check user account registration,TP063214
+TP0756941,Super User,2024-08-15,11:47:52,check user current login,TP075320
+TP0756941,Super User,2024-08-15,11:48:02,check user account activation,TP075320
+TP0756941,Super User,2024-08-15,11:48:21,check user account registration,TP063158
+TP0756941,Super User,2024-08-15,11:50:07,Update user,TP006352
+TP0756941,Super User,2024-08-15,11:57:07,Update user,TP073154
+TP0756941,Super User,2024-08-15,12:00:01,Update user,TP000235
+TP0756941,Super User,2024-08-15,12:01:42,modify customer ID,TP0001
+TP0756941,Super User,2024-08-16,20:10:46,approved customer registration,080814081919
+TP0756941,Super User,2024-08-16,20:15:24,Registration approved,TP075377
+TP075377,Inventory Staff,2024-08-16,20:16:27,Add new stocks,Added JOYSTICK into stock file
+TP075377,Inventory Staff,2024-08-16,20:16:44,Add new stocks,Added MOTHERBOARD into stock file
+TP075377,Inventory Staff,2024-08-16,20:17:02,Purchase stock from company,Place a purchase order of 13 JOYSTICK from company
+TP075377,Inventory Staff,2024-08-16,20:35:35,Add new stocks,Added JOYSTICK into stock file
+TP075377,Inventory Staff,2024-08-16,20:35:52,Add new stocks,Added PENDRVIE into stock file
+TP0004,Customer,2024-08-16,20:38:40,Added an item into cart,Added 1 PENDRVIE into cart
+TP075377,Inventory Staff,2024-08-16,20:40:37,Request to purchase stock from supplier,Requested for a purchase order of 84 JOYSTICK from Jack Hung Tech Solutions
+TP075377,Inventory Staff,2024-08-16,20:40:50,View inventory staff purchase order status from supplier,View the purchase order of order ID 0003 
+TP075377,Inventory Staff,2024-08-16,20:41:12,Change stock quantity to purchase for inventory staff purchase order,The stock quantity to be purchased for order ID 0003 is changed to 80 
+TP075377,Inventory Staff,2024-08-16,20:41:54,View customer purchase order status,View purchase order information of customer ID 12345
+TP075377,Inventory Staff,2024-08-16,20:42:44,View inventory staff purchase order status from supplier,View the purchase order of order ID 0003 
+TP075377,Inventory Staff,2024-08-16,20:43:02,View customer repair or service order status,View repair or service order information of order ID 0002
+TP0004,Customer,2024-08-16,20:44:00,Placed a service or repair order,Placed a Laptop Repair order. Payment Completed
+TP075377,Inventory Staff,2024-08-16,20:44:35,View customer repair or service order status,View repair or service order information of order ID 0004
+TP0004,Customer,2024-08-16,20:47:53,Placed a service or repair order,Placed a Desktop Repair order. Payment Incomplete
+TP0004,Customer,2024-08-16,20:53:13,Added an item into cart,Added 12 PENDRVIE into cart
+TP0004,Customer,2024-08-16,20:55:39,Added an item into cart,Added 3 PENDRVIE into cart
+TP075377,Inventory Staff,2024-08-16,21:06:53,Purchase stock from company,Place a purchase order of 10 PENDRVIE from company
+TP0004,Customer,2024-08-16,21:09:20,Check out stock in cart,0002 is checked out
+TP0004,Customer,2024-08-16,21:19:54,Added an item into cart,Added 3 PENDRVIE into cart
+TP075377,Inventory Staff,2024-08-16,21:24:11,Purchase stock from company,Place a purchase order of 4 PENDRVIE from company
+TP0004,Customer,2024-08-16,21:25:07,Check out stock in cart,0002 is checked out
+TP036845,Admin,2025-06-13,18:07:43,check customer purchase order,TP0004

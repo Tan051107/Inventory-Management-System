@@ -1,0 +1,8 @@
+CusID,StockID,StockName,Quantity,TotalPrice,LastOrderedDate,LastOrderedTime,PaymentDate,PaymentTime,Status
+12345,0012,ASUS Zenbook S 16,12,90000.0,14-08-2024,20:39:40,14-08-2024,20:39:40,Payment Completed
+12345,0013,ASUS TUF Gaming A14,21,157500.0,14-08-2024,20:47:46,14-08-2024,20:47:46,Payment Completed
+12345,0010,ThinkBook 14 Gen 6,5,12500.0,14-08-2024,20:53:22,14-08-2024,20:53:22,Payment Completed
+12345,0003,Hard Disk,30,600,14-08-2024,20:57:39,-,-,Payment Incomplete
+12345,0010,ThinkBook 14 Gen 6,3,7500.0,11-08-2024,21:17:54,-,-,Payment Incomplete
+TP0004,0002,PENDRVIE,3,267.0,16-08-2024,21:09:20,16-08-2024,21:09:20,Payment Completed
+TP0004,0002,PENDRVIE,1,89.0,16-08-2024,21:25:07,16-08-2024,21:25:07,Payment Completed
